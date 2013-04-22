@@ -2,6 +2,10 @@ CSPP51050
 Homework 1
 Sam Henry
 
+=======================
+Singleton and Template
+=======================
+
 I solved HW 1 using Smalltalk. I wrote in Squeak in order to extend TestCase for unit testing in Squeak's TestRunner. My unit tests also work if you filein to Pharo.
 
 Download one-click images:
