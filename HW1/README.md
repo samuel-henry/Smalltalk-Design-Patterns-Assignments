@@ -24,6 +24,9 @@ If you filein these files to your Squeak or Pharo using the File Browser, you'll
 		Account
 		CheckingAccount
 		SavingsAccount
+		AccountTests
+		CheckingAccountTests
+		SavingsAccountTests
 
 I've implemented the functionality for Problem 1 in Registrar and Course, and included unit tests in RegistrarTests and CourseTests. The functionality for Problem 2 is in Account, CheckingAccount, and SavingsAccount, with unit tests in AccountTests, CheckingAccountTests, and SavingsAccountTests. 
 
