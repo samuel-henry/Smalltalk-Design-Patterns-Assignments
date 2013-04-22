@@ -29,7 +29,7 @@ I've implemented the functionality for Problem 1 in Registrar and Course, and in
 
 Please browse the source for each class and run the unit tests using Squeak's TestRunner or by action-clicking on CSPP51050-HW1-Tests --> Run Tests in Pharo.
 
-Additional testing for problem 2 can be completed in the Workspace. Paste the following into your Workspace and then follow the below steps:
+Additional testing for problem 2 can be completed in the Workspace. Paste the following into your Workspace and then follow the steps below:
 
 	pastDate := Date today subtractDays: 365.
 	pastDate := Date today subtractDays: 3650.
@@ -50,7 +50,7 @@ Additional testing for problem 2 can be completed in the Workspace. Paste the fo
 	savingsAccount lastUpdatedDate: pastDate.
 	savingsAccount getAccountSummary.
 
-Workspace Testing:
+Workspace Testing Steps:
 
 For the below steps, you'll see the effects of the different implementations of Account. For CheckingAccount the balance will not increase over time. For SavingsAccount the balance will compound at the default interest rate (0.10) compounded annually.
 
