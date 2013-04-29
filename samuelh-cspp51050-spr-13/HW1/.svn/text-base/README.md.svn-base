@@ -28,7 +28,7 @@ If you filein these files to your Squeak or Pharo using the File Browser, you'll
 		CheckingAccountTests
 		SavingsAccountTests
 
-I've implemented the functionality for Problem 1 in Registrar and Course, and included unit tests in RegistrarTests and CourseTests. The functionality for Problem 2 is in Account, CheckingAccount, and SavingsAccount, with unit tests in AccountTests, CheckingAccountTests, and SavingsAccountTests. 
+I've implemented the functionality for Problem 1 in Registrar and Course, and included unit tests in RegistrarTests and CourseTests. The functionality for Problem 2 is in Account, CheckingAccount, and SavingsAccount, with unit tests in AccountTests, CheckingAccountTests, and SavingsAccountTests. My implementation of the abstract superclass Account is influenced by "Chapter 6: Abstract classes" in Chamond Liu's 'Smalltalk, Objects, and Design'.
 
 Please browse the source for each class and run the unit tests using Squeak's TestRunner or by action-clicking on CSPP51050-HW1-Tests --> Run Tests in Pharo.
 
