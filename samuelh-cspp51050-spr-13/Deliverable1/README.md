@@ -1,5 +1,20 @@
-Lab Deliverable 1
 
 Composite, Iterator, Visitor, Singleton
 
-For this exercise you will implement a small portfolio application. A portfolio consists of accounts and other portfolios. An account is composed of securities classes:  stocks, bonds, money market. The current value of a portfolio is the sum of the current values of the different securities it contains. You will need to write software to enable a user to build a portfolio of his choice and evaluate the total value of the portfolio.
+CSPP51050
+Deliverable 1
+Sam Henry
+
+I solved Deliverable 1 using Smalltalk. I wrote in Squeak in order to extend TestCase for unit testing in Squeak's TestRunner. My unit tests also work if you filein to Pharo.
+
+Download one-click images:
+	Squeak: http://ftp.squeak.org/4.4/Squeak-4.4-All-in-One.zip
+	Pharo: 	http://www.pharo-project.org/pharo-download 
+
+My solutions' classes have been filed out to two files:
+	CSPP51050-Deliverable1.st
+	CSPP51050-Deliverable1-Tests.st
+
+If you filein these files to your Squeak or Pharo using the File Browser, you'll see my solution's classes.
+
+Please browse the source for each class and run the unit tests using Squeak's TestRunner or by action-clicking on CSPP51050-Deliverable1-Tests --> Run Tests in Pharo.
